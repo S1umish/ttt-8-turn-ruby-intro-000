@@ -38,3 +38,5 @@ end
 end
 puts "where would you like to go?"
 input = gets.strip
+display_board(board)
+end
