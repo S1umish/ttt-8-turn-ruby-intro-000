@@ -34,7 +34,7 @@ if valid_move?(board, index)
 else
   puts "That was invalid, again."
   display_board(board)
-end
-end
 puts "where would you like to go?"
 input = gets.strip
+end
+end
